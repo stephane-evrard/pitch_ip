@@ -1,4 +1,4 @@
-# export DATABASE_URL='postgres://xkoszvcfcdlkrk:9d454a4207418f7d6084c0af1fa0c93a32656ec9783bef5ec6c86212ba57132a@ec2-54-235-240-126.compute-1.amazonaws.com:5432/d18732jk577r6a'
+ $env: postgres://dtoqaoutneurti:543d86a61d67f1dd7acd3de98d8460df91dc608fd3aa62563f29a3c49c458a01@ec2-52-3-130-181.compute-1.amazonaws.com:5432/d2vi8najlsnu2
 
  $env:SECRET_KEY='powerfulsecretkey'
 
