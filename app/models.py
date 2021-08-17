@@ -146,8 +146,4 @@ class Downvote(db.Model):
         return f'{self.user_id}:{self.pitch_id}'
 
 
-
-
-
-
     

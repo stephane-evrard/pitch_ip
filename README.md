@@ -1,6 +1,6 @@
 # PitchOne
 
-> Producer: Stephane Evrard 
+> Producer: Stephane Evrard
 
 > --------------------------------------------------------------------------------
 
