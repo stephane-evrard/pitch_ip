@@ -20,7 +20,7 @@
 ## Setup/Installation Requirements
 
 > - Internet connection
-> - Link to deployed page: [Heroku]()
+> - Link to deployed page: [Heroku](https://pitchone-app.herokuapp.com/)
 
 ## Technologies used
 
